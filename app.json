@@ -7,7 +7,8 @@
   "repository": "https://github.com/odunamattuvitruvena/python-aria-mirror-bot",
   "success_url": "https://t.me/AiTorrentWare",
   "website": "https://github.com/lzzy12/python-aria-mirror-bot",
-  "IS_TEAM_DRIVE": {
+  "env": {
+    "IS_TEAM_DRIVE": {
       "description": "Enter your copied text from rclone config. Compulsory for /gleech as well as /tleech command ",
       "value": "True"
       "required": false
